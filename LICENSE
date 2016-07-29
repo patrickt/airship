@@ -20,9 +20,15 @@ TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
 SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 Portions of this software have been extracted from the Snap framework,
-which is licensed under the three-clause BSD license.
+which is licensed under the three-clause BSD license below.
 
-Copyright (c) 2009, Snap Framework authors (see CONTRIBUTORS)
+Copyright (c) 2009, Snap Framework authors.
+All rights reserved.
+
+Portions of this software have been extracted from Kazu Yamamoto's
+http-date library, which is licensed under the three-clause BSD license.
+
+Copyright (c) 2009, IIJ Innovation Institute Inc.
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without

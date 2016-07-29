@@ -1,3 +1,9 @@
+{-
+   Portions of this file are copyright (c) 2009,  IIJ Innovation Institute Inc.
+   The utcTimeToRfc1123 function was extracted from http-date, with slight
+   modifications to operate on UTCTime values.
+-}
+
 {-# LANGUAGE CPP               #-}
 {-# LANGUAGE OverloadedStrings #-}
 
