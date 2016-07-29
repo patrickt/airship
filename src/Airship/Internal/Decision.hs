@@ -82,7 +82,7 @@ flow :: Monad m => Resource m -> Webmachine m Response
 flow r = evalStateT (b13 r) initFlowState
 
 trace :: Monad m => ByteString -> FlowStateT m ()
-trace a = lift $ addTrace a
+trace a = lift $! addTrace a
 
 -----------------------------------------------------------------------------
 -- Header value data newtypes
